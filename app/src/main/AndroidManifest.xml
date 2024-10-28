@@ -16,13 +16,13 @@
             android:name=".ConfirmationActivity"
             android:exported="false" />
         <activity
-            android:name=".OrderActivity"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".ListFoodActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".OrderActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
